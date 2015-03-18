@@ -7,6 +7,8 @@ This software was tested under Windows OS, and developed using CodeBlocks IDE.
 
 Before compiling, make sure to include "opengl32", "glut32" and "glu32" to the link list.
 
+A binary release can be found for Windows users.
+
 The project proposal can be seen in the file "Project Proposal.pdf".
 
 # How to Play
@@ -16,15 +18,15 @@ Inputs can be changed on the second tab of the menu.
 
 The default inputs are:
 
-  w, a, s, d: move forward, backward, to the left, to the right.
+	w, a, s, d: move forward, backward, to the left, to the right.
 
-  arrow keys: change look direction of camera.
+	arrow keys: change look direction of camera.
 
-  space bar: charges power to throw a snowball.
+	space bar: charges power to throw a snowball.
 
-  tab: changes camera mode.
+	tab: changes camera mode.
 
-  1: changes snowman character face style.
+	1: changes snowman character face style.
 
 To fast exit the game, the Escape key can be pressed anytime.
 
